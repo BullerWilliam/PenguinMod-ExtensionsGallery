@@ -10,8 +10,8 @@ export default [
         description: "seededRNG Dec",
         code: "Bullerwilliam/seededRNG.js",
         banner: "Bullerwilliam/Image.avif",
-        creator: "Bullerwilliam",
-        isGitHub: false,
+        creator: "BullerWilliam",
+        isGitHub: true,
         creatorAlias: "Bullerwilliam",
     },
     /* these extensions are completely dead as of now
