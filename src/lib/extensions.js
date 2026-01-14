@@ -9,7 +9,7 @@ export default [
         name: "seededRNG",
         description: "seededRNG Dec",
         code: "Bullerwilliam/seededRNG.js",
-        banner: "Bullerwilliam/Image.avif",
+        banner: "Bullerwilliam/seededrng.avif",
         creator: "BullerWilliam",
         isGitHub: true,
         creatorAlias: "Bullerwilliam",
